@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string-array name="menu_pictrue_mode_list">
+        <item>xx</item>
+        <item>tran2</item>
+        <item>tran3</item>
+        <item>tran4</item>
+        <item>tran5</item>
+    </string-array>
+    <string-array name="menu_track_mode_list">
+        <item>tran6</item>
+        <item>tran7</item>
+    </string-array>
+    <string-array name="menu_audio_equalizer_list">
+        <item>tran8</item>
+        <item>tran9</item>
+        <item>xx</item>
+        <item>tran11</item>
+        <item>tran12</item>
+        <item>tran13</item>
+        <item>tran14</item>
+        <item>tran15</item>
+    </string-array>
+</resources>
